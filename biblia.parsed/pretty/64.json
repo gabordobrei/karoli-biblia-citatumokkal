@@ -1,0 +1,437 @@
+{
+  "title": "PÁL APOSTOLNAK FILEMONHOZ ÍRT LEVELE [Filem.]",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "cited_text": "Pál, Krisztus Jézusnak foglya, és Timótheus, az atyafi, Filemonnak, a mi szeretett munkatársunknak, [vers 5-7. Eféz. 3,1.]",
+          "text": "Pál, Krisztus Jézusnak foglya, és Timótheus, az atyafi, Filemonnak, a mi szeretett munkatársunknak, *",
+          "cites": [
+            {
+              "link": "Eféz. 3,1.",
+              "displayable_name": "Eféz. 3,1.",
+              "offset": 100
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "cited_text": "És Appiának, a szeretettnek, és Arkhippusnak, a mi bajtársunknak, és a te házadnál való gyülekezetnek: [Kol. 4,15.17. Fil. 2,25.4,3.]",
+          "text": "És Appiának, a szeretettnek, és Arkhippusnak, a mi bajtársunknak, és a te házadnál való gyülekezetnek: *",
+          "cites": [
+            {
+              "link": "Kol. 4,15.17.",
+              "displayable_name": "Kol. 4,15.17.",
+              "offset": 103
+            },
+            {
+              "link": "Fil. 2,25.4,3.",
+              "displayable_name": "Fil. 2,25.4,3.",
+              "offset": 103
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "cited_text": "Kegyelem néktek és békesség Istentől, a mi Atyánktól, és az Úr Jézus Krisztustól.",
+          "text": "Kegyelem néktek és békesség Istentől, a mi Atyánktól, és az Úr Jézus Krisztustól.",
+          "cites": []
+        },
+        {
+          "number": 4,
+          "cited_text": "Hálát adok az én Istenemnek mindenkor, emlegetvén téged az én imádságaimban, [Eféz. 1,15.16. 1 Kor. 1,4. Fil. 1,3. 1 Thess. 1,2.]",
+          "text": "Hálát adok az én Istenemnek mindenkor, emlegetvén téged az én imádságaimban, *",
+          "cites": [
+            {
+              "link": "Eféz. 1,15.16.",
+              "displayable_name": "Eféz. 1,15.16.",
+              "offset": 77
+            },
+            {
+              "link": "1 Kor. 1,4.",
+              "displayable_name": "1 Kor. 1,4.",
+              "offset": 77
+            },
+            {
+              "link": "Fil. 1,3.",
+              "displayable_name": "Fil. 1,3.",
+              "offset": 77
+            },
+            {
+              "link": "1 Thess. 1,2.",
+              "displayable_name": "1 Thess. 1,2.",
+              "offset": 77
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "cited_text": "Mert hallom a te szeretetedet és ama te hitedet, mely van benned az Úr Jézushoz, és minden szentek irányában, [1 Kor. 13,13. Gal. 5,6. 1 Thess. 1,3.8.3,6.]",
+          "text": "Mert hallom a te szeretetedet és ama te hitedet, mely van benned az Úr Jézushoz, és minden szentek irányában, *",
+          "cites": [
+            {
+              "link": "1 Kor. 13,13.",
+              "displayable_name": "1 Kor. 13,13.",
+              "offset": 110
+            },
+            {
+              "link": "Gal. 5,6.",
+              "displayable_name": "Gal. 5,6.",
+              "offset": 110
+            },
+            {
+              "link": "1 Thess. 1,3.8.3,6.",
+              "displayable_name": "1 Thess. 1,3.8.3,6.",
+              "offset": 110
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "cited_text": "Hogy a te hitedben való közösség hathatós legyen, a Krisztus ügyében, minden bennetek levő jónak megismerése által. [Fil. 2,1. 1 Kor. 1,9.10,16. 2 Kor. 8,9. 1 Kor. 12,4-11. Eféz. 1,3. Gal. 6,6.]",
+          "text": "Hogy a te hitedben való közösség hathatós legyen, a Krisztus ügyében, minden bennetek levő jónak megismerése által. *",
+          "cites": [
+            {
+              "link": "Fil. 2,1.",
+              "displayable_name": "Fil. 2,1.",
+              "offset": 116
+            },
+            {
+              "link": "1 Kor. 1,9.10,16.",
+              "displayable_name": "1 Kor. 1,9.10,16.",
+              "offset": 116
+            },
+            {
+              "link": "2 Kor. 8,9.",
+              "displayable_name": "2 Kor. 8,9.",
+              "offset": 116
+            },
+            {
+              "link": "1 Kor. 12,4-11.",
+              "displayable_name": "1 Kor. 12,4-11.",
+              "offset": 116
+            },
+            {
+              "link": "Eféz. 1,3.",
+              "displayable_name": "Eféz. 1,3.",
+              "offset": 116
+            },
+            {
+              "link": "Gal. 6,6.",
+              "displayable_name": "Gal. 6,6.",
+              "offset": 116
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "cited_text": "Mert sok örömünk és vígasztalásunk van a te szeretetedben, hogy a szenteknek szíveik megvídámodtak te általad, atyámfia. [vers 1.6.9. Gal. 5,6. Kol. 4,11. Fil. 4,1.]",
+          "text": "Mert sok örömünk és vígasztalásunk van a te szeretetedben, hogy a szenteknek szíveik megvídámodtak te általad, atyámfia. *",
+          "cites": [
+            {
+              "link": "Gal. 5,6.",
+              "displayable_name": "Gal. 5,6.",
+              "offset": 121
+            },
+            {
+              "link": "Kol. 4,11.",
+              "displayable_name": "Kol. 4,11.",
+              "offset": 121
+            },
+            {
+              "link": "Fil. 4,1.",
+              "displayable_name": "Fil. 4,1.",
+              "offset": 121
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "cited_text": "Annakokáért jóllehet nagy bátorságom van a Krisztusban, megparancsolni néked azt, a mi illendő, [vers 5.7.19. 1 Kor. 4,15.]",
+          "text": "Annakokáért jóllehet nagy bátorságom van a Krisztusban, megparancsolni néked azt, a mi illendő, *",
+          "cites": [
+            {
+              "link": "1 Kor. 4,15.",
+              "displayable_name": "1 Kor. 4,15.",
+              "offset": 96
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "cited_text": "A szeretetért inkább kérlek, ilyen lévén, mint Pál, a megvénhedett, most pedig foglya is a Jézus Krisztusnak; [vers 6.7. 1 Kor. 13,1. Csel. 7,58. Csel. 28,17.23.]",
+          "text": "A szeretetért inkább kérlek, ilyen lévén, mint Pál, a megvénhedett, most pedig foglya is a Jézus Krisztusnak; *",
+          "cites": [
+            {
+              "link": "1 Kor. 13,1.",
+              "displayable_name": "1 Kor. 13,1.",
+              "offset": 110
+            },
+            {
+              "link": "Csel. 7,58.",
+              "displayable_name": "Csel. 7,58.",
+              "offset": 110
+            },
+            {
+              "link": "Csel. 28,17.23.",
+              "displayable_name": "Csel. 28,17.23.",
+              "offset": 110
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "cited_text": "Kérlek téged az én fiamért, a kit fogságomban szűltem, Onésimusért, [1 Kor. 4,14.15. Gal. 4,19. 1 Tim. 1,2. Tit. 1,3. 1 Pét. 5,13.]",
+          "text": "Kérlek téged az én fiamért, a kit fogságomban szűltem, Onésimusért, *",
+          "cites": [
+            {
+              "link": "1 Kor. 4,14.15.",
+              "displayable_name": "1 Kor. 4,14.15.",
+              "offset": 68
+            },
+            {
+              "link": "Gal. 4,19.",
+              "displayable_name": "Gal. 4,19.",
+              "offset": 68
+            },
+            {
+              "link": "1 Tim. 1,2.",
+              "displayable_name": "1 Tim. 1,2.",
+              "offset": 68
+            },
+            {
+              "link": "Tit. 1,3.",
+              "displayable_name": "Tit. 1,3.",
+              "offset": 68
+            },
+            {
+              "link": "1 Pét. 5,13.",
+              "displayable_name": "1 Pét. 5,13.",
+              "offset": 68
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "cited_text": "A ki egykor tenéked haszontalan volt, most pedig mind néked, mind nékem nagyon hasznos, [vers 10.13.15. Mát. 5,30. 2 Tim. 2,21.4,11. Fil. 1,22. 1 Kor. 16,18.]",
+          "text": "A ki egykor tenéked haszontalan volt, most pedig mind néked, mind nékem nagyon hasznos, *",
+          "cites": [
+            {
+              "link": "Mát. 5,30.",
+              "displayable_name": "Mát. 5,30.",
+              "offset": 88
+            },
+            {
+              "link": "2 Tim. 2,21.4,11.",
+              "displayable_name": "2 Tim. 2,21.4,11.",
+              "offset": 88
+            },
+            {
+              "link": "Fil. 1,22.",
+              "displayable_name": "Fil. 1,22.",
+              "offset": 88
+            },
+            {
+              "link": "1 Kor. 16,18.",
+              "displayable_name": "1 Kor. 16,18.",
+              "offset": 88
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "cited_text": "Kit visszaküldöttem; te pedig őt, azaz az én szívemet, fogadd magadhoz! [vers 17.]",
+          "text": "Kit visszaküldöttem; te pedig őt, azaz az én szívemet, fogadd magadhoz! *",
+          "cites": []
+        },
+        {
+          "number": 13,
+          "cited_text": "Őt én magamnál akartam tartani, hogy te helyetted szolgáljon nékem az evangyéliomért szenvedett fogságomban; [vers 9.19. Fil. 2,20. 1 Kor. 16,17.]",
+          "text": "Őt én magamnál akartam tartani, hogy te helyetted szolgáljon nékem az evangyéliomért szenvedett fogságomban; *",
+          "cites": [
+            {
+              "link": "Fil. 2,20.",
+              "displayable_name": "Fil. 2,20.",
+              "offset": 109
+            },
+            {
+              "link": "1 Kor. 16,17.",
+              "displayable_name": "1 Kor. 16,17.",
+              "offset": 109
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "cited_text": "De a te megkérdezésed nélkül semmit sem akartam cselekedni, hogy jótéteményed ne kényszerítésből, hanem szabad akaratból való legyen. [vers 20.21. 2 Kor. 9,7. 1 Pét. 5,2.]",
+          "text": "De a te megkérdezésed nélkül semmit sem akartam cselekedni, hogy jótéteményed ne kényszerítésből, hanem szabad akaratból való legyen. *",
+          "cites": [
+            {
+              "link": "2 Kor. 9,7.",
+              "displayable_name": "2 Kor. 9,7.",
+              "offset": 134
+            },
+            {
+              "link": "1 Pét. 5,2.",
+              "displayable_name": "1 Pét. 5,2.",
+              "offset": 134
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "cited_text": "Mert talán azért vált meg tőled ideig-óráig, hogy őt, mint örökkévalót kapd vissza; [1 Móz. 45,5.]",
+          "text": "Mert talán azért vált meg tőled ideig-óráig, hogy őt, mint örökkévalót kapd vissza; *",
+          "cites": [
+            {
+              "link": "1 Móz. 45,5.",
+              "displayable_name": "1 Móz. 45,5.",
+              "offset": 84
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "cited_text": "Nem úgy immár mint szolgát, hanem szolgánál nagyobbat, mint szeretett atyafit, kiváltképen nékem, mennyivel inkább pedig néked, mind testben, mind az Úrban. [Ján. 15,15. vers 10.12. 1 Tim. 6,2. 1 Kor. 7,21.22. Gal. 3,28. Kol. 3,11.]",
+          "text": "Nem úgy immár mint szolgát, hanem szolgánál nagyobbat, mint szeretett atyafit, kiváltképen nékem, mennyivel inkább pedig néked, mind testben, mind az Úrban. *",
+          "cites": [
+            {
+              "link": "Ján. 15,15.",
+              "displayable_name": "Ján. 15,15.",
+              "offset": 157
+            },
+            {
+              "link": "1 Tim. 6,2.",
+              "displayable_name": "1 Tim. 6,2.",
+              "offset": 157
+            },
+            {
+              "link": "1 Kor. 7,21.22.",
+              "displayable_name": "1 Kor. 7,21.22.",
+              "offset": 157
+            },
+            {
+              "link": "Gal. 3,28.",
+              "displayable_name": "Gal. 3,28.",
+              "offset": 157
+            },
+            {
+              "link": "Kol. 3,11.",
+              "displayable_name": "Kol. 3,11.",
+              "offset": 157
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "cited_text": "Azért, ha engem részestársadnak tartasz, úgy fogadd őt magadhoz, mint engemet. [vers 6.]",
+          "text": "Azért, ha engem részestársadnak tartasz, úgy fogadd őt magadhoz, mint engemet. *",
+          "cites": []
+        },
+        {
+          "number": 18,
+          "cited_text": "Ha pedig valamit vétett ellened, avagy adós, ezt nekem róvd fel. [vers 19.]",
+          "text": "Ha pedig valamit vétett ellened, avagy adós, ezt nekem róvd fel. *",
+          "cites": []
+        },
+        {
+          "number": 19,
+          "cited_text": "Én Pál írtam az én kezemmel, én megfizetem: hogy azt ne mondjam néked, hogy te magaddal is adós vagy ezen felül nékem. [2 Kor. 10,1. Gal. 5,2. Eféz. 3,1. Kol. 1,23. 2 Kor. 9,4. Luk. 9,25.]",
+          "text": "Én Pál írtam az én kezemmel, én megfizetem: hogy azt ne mondjam néked, hogy te magaddal is adós vagy ezen felül nékem. *",
+          "cites": [
+            {
+              "link": "2 Kor. 10,1.",
+              "displayable_name": "2 Kor. 10,1.",
+              "offset": 119
+            },
+            {
+              "link": "Gal. 5,2.",
+              "displayable_name": "Gal. 5,2.",
+              "offset": 119
+            },
+            {
+              "link": "Eféz. 3,1.",
+              "displayable_name": "Eféz. 3,1.",
+              "offset": 119
+            },
+            {
+              "link": "Kol. 1,23.",
+              "displayable_name": "Kol. 1,23.",
+              "offset": 119
+            },
+            {
+              "link": "2 Kor. 9,4.",
+              "displayable_name": "2 Kor. 9,4.",
+              "offset": 119
+            },
+            {
+              "link": "Luk. 9,25.",
+              "displayable_name": "Luk. 9,25.",
+              "offset": 119
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "cited_text": "Bizonyára, atyámfia, jótéteményt várnék tőled az Úrban: vídámítsd meg az én szívemet az Úrban! [vers 5.6.7.17-19.]",
+          "text": "Bizonyára, atyámfia, jótéteményt várnék tőled az Úrban: vídámítsd meg az én szívemet az Úrban! *",
+          "cites": []
+        },
+        {
+          "number": 21,
+          "cited_text": "Bízván a te engedelmességedben, így írtam néked, tudván, hogy annál, a mit mondok, többet is fogsz cselekedni. [vers 8.]",
+          "text": "Bízván a te engedelmességedben, így írtam néked, tudván, hogy annál, a mit mondok, többet is fogsz cselekedni. *",
+          "cites": []
+        },
+        {
+          "number": 22,
+          "cited_text": "Egyúttal pedig készíts nékem szállást; mert reménylem, hogy a ti imádságaitokért néktek ajándékoztatom. [Fil. 1,19.1,26.]",
+          "text": "Egyúttal pedig készíts nékem szállást; mert reménylem, hogy a ti imádságaitokért néktek ajándékoztatom. *",
+          "cites": [
+            {
+              "link": "Fil. 1,19.1,26.",
+              "displayable_name": "Fil. 1,19.1,26.",
+              "offset": 104
+            }
+          ]
+        },
+        {
+          "number": 23,
+          "cited_text": "Köszönt téged Epafrás, az én fogolytársam a Krisztus Jézusban, [Kol. 4,10-14.1,7. Eféz. 4,1. Fil. 1,13.]",
+          "text": "Köszönt téged Epafrás, az én fogolytársam a Krisztus Jézusban, *",
+          "cites": [
+            {
+              "link": "Kol. 4,10-14.1,7.",
+              "displayable_name": "Kol. 4,10-14.1,7.",
+              "offset": 63
+            },
+            {
+              "link": "Eféz. 4,1.",
+              "displayable_name": "Eféz. 4,1.",
+              "offset": 63
+            },
+            {
+              "link": "Fil. 1,13.",
+              "displayable_name": "Fil. 1,13.",
+              "offset": 63
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "cited_text": "Továbbá Márk, Aristárkhus, Démás és Lukács, az én munkatársaim.",
+          "text": "Továbbá Márk, Aristárkhus, Démás és Lukács, az én munkatársaim.",
+          "cites": []
+        },
+        {
+          "number": 25,
+          "cited_text": "A mi Urunk Jézus Krisztusnak kegyelme legyen a ti lelketekkel!",
+          "text": "A mi Urunk Jézus Krisztusnak kegyelme legyen a ti lelketekkel!",
+          "cites": []
+        }
+      ]
+    }
+  ]
+}

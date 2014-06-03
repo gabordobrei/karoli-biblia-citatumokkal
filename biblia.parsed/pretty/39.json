@@ -1,0 +1,359 @@
+{
+  "title": "JÓNÁS PRÓFÉTA KÖNYVE [Jón.]",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "cited_text": "És lőn az Úrnak szava Jónáshoz, az Amittai fiához, [2 Kir. 14,25.] mondván:",
+          "text": "És lőn az Úrnak szava Jónáshoz, az Amittai fiához, * mondván:",
+          "cites": [
+            {
+              "link": "2 Kir. 14,25.",
+              "displayable_name": "2 Kir. 14,25.",
+              "offset": 51
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "cited_text": "Kelj fel, menj Ninivébe, a nagy városba, és kiálts ellene, mert gonoszságuk felhatolt elémbe!",
+          "text": "Kelj fel, menj Ninivébe, a nagy városba, és kiálts ellene, mert gonoszságuk felhatolt elémbe!",
+          "cites": []
+        },
+        {
+          "number": 3,
+          "cited_text": "És felkele Jónás, hogy Tarsisba szaladna [rész 4,2.] az Úr elől. Leméne azért Jáfóba, és talála ott egy hajót, a mely méne Tarsisba, és megadván a hajóbért, beszálla abba, hogy Tarsisba menne velök az Úr színe elől.",
+          "text": "És felkele Jónás, hogy Tarsisba szaladna * az Úr elől. Leméne azért Jáfóba, és talála ott egy hajót, a mely méne Tarsisba, és megadván a hajóbért, beszálla abba, hogy Tarsisba menne velök az Úr színe elől.",
+          "cites": [
+            {
+              "link": "rész 4,2.",
+              "displayable_name": "rész 4,2.",
+              "offset": 41
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "cited_text": "Az Úr pedig nagy szelet bocsáta a tengerre, és nagy vihar lőn a tengeren, és a hajó már-már töredezik vala.",
+          "text": "Az Úr pedig nagy szelet bocsáta a tengerre, és nagy vihar lőn a tengeren, és a hajó már-már töredezik vala.",
+          "cites": []
+        },
+        {
+          "number": 5,
+          "cited_text": "Megfélemlének azért a hajósok és kiáltának, kiki az ő istenéhez, és a hajóban lévő holmit a tengerbe hányák, hogy könnyítsenek magukon. Jónás pedig leméne a hajó aljába, és lefeküdt és elaludt.",
+          "text": "Megfélemlének azért a hajósok és kiáltának, kiki az ő istenéhez, és a hajóban lévő holmit a tengerbe hányák, hogy könnyítsenek magukon. Jónás pedig leméne a hajó aljába, és lefeküdt és elaludt.",
+          "cites": []
+        },
+        {
+          "number": 6,
+          "cited_text": "De hozzáméne a kormányos mester, és mondá néki: Mi lelt, te nagy alvó? Kelj fel, kiálts a te Istenedhez; hát ha gondol velünk az Isten, és nem veszünk el!",
+          "text": "De hozzáméne a kormányos mester, és mondá néki: Mi lelt, te nagy alvó? Kelj fel, kiálts a te Istenedhez; hát ha gondol velünk az Isten, és nem veszünk el!",
+          "cites": []
+        },
+        {
+          "number": 7,
+          "cited_text": "Egymásnak pedig ezt mondák: Jertek, vessünk sorsot, hogy megtudhassuk: mi miatt van rajtunk e veszedelem? És sorsot vetének, és a sors Jónásra esék.",
+          "text": "Egymásnak pedig ezt mondák: Jertek, vessünk sorsot, hogy megtudhassuk: mi miatt van rajtunk e veszedelem? És sorsot vetének, és a sors Jónásra esék.",
+          "cites": []
+        },
+        {
+          "number": 8,
+          "cited_text": "Mondák azért néki: Kérünk, beszéld el nékünk: mi miatt van rajtunk e veszedelem? Mi a te foglalkozásod és honnan jösz? Melyik a te hazád és miféle népből való vagy te?",
+          "text": "Mondák azért néki: Kérünk, beszéld el nékünk: mi miatt van rajtunk e veszedelem? Mi a te foglalkozásod és honnan jösz? Melyik a te hazád és miféle népből való vagy te?",
+          "cites": []
+        },
+        {
+          "number": 9,
+          "cited_text": "És monda nékik: Héber vagyok én, és az Urat, az egek Istenét félem én, a ki a tengert és a szárazt teremtette.",
+          "text": "És monda nékik: Héber vagyok én, és az Urat, az egek Istenét félem én, a ki a tengert és a szárazt teremtette.",
+          "cites": []
+        },
+        {
+          "number": 10,
+          "cited_text": "És megfélemlének az emberek nagy félelemmel, és mondák néki: Mit cselekedtél? Mert megtudták azok az emberek, hogy az Úr színe elől fut, mivelhogy elbeszélé nékik.",
+          "text": "És megfélemlének az emberek nagy félelemmel, és mondák néki: Mit cselekedtél? Mert megtudták azok az emberek, hogy az Úr színe elől fut, mivelhogy elbeszélé nékik.",
+          "cites": []
+        },
+        {
+          "number": 11,
+          "cited_text": "Mondák azután néki: Mit cselekedjünk veled, hogy a tenger megcsendesedjék ellenünk? Mert a tenger háborgása növekedék.",
+          "text": "Mondák azután néki: Mit cselekedjünk veled, hogy a tenger megcsendesedjék ellenünk? Mert a tenger háborgása növekedék.",
+          "cites": []
+        },
+        {
+          "number": 12,
+          "cited_text": "Ő pedig monda nékik: Fogjatok meg és vessetek engem a tengerbe, és megcsendesedik a tenger ellenetek; mert tudom én, hogy miattam van ez a nagy vihar rajtatok.",
+          "text": "Ő pedig monda nékik: Fogjatok meg és vessetek engem a tengerbe, és megcsendesedik a tenger ellenetek; mert tudom én, hogy miattam van ez a nagy vihar rajtatok.",
+          "cites": []
+        },
+        {
+          "number": 13,
+          "cited_text": "És erőlködtek azok az emberek, hogy visszajussanak a szárazra; de nem tudtak, mert a tenger háborgása növekedék ellenök.",
+          "text": "És erőlködtek azok az emberek, hogy visszajussanak a szárazra; de nem tudtak, mert a tenger háborgása növekedék ellenök.",
+          "cites": []
+        },
+        {
+          "number": 14,
+          "cited_text": "Kiáltának azért az Úrhoz, és mondák: Kérünk Uram, kérünk, ne veszszünk el ez ember lelkéért, és ne háríts reánk ártatlan vért; mert te, Uram, úgy cselekedtél, a mint akartad!",
+          "text": "Kiáltának azért az Úrhoz, és mondák: Kérünk Uram, kérünk, ne veszszünk el ez ember lelkéért, és ne háríts reánk ártatlan vért; mert te, Uram, úgy cselekedtél, a mint akartad!",
+          "cites": []
+        },
+        {
+          "number": 15,
+          "cited_text": "És felragadák Jónást és beveték őt a tengerbe, és megszűnék a tenger az ő háborgásától.",
+          "text": "És felragadák Jónást és beveték őt a tengerbe, és megszűnék a tenger az ő háborgásától.",
+          "cites": []
+        },
+        {
+          "number": 16,
+          "cited_text": "Azok az emberek pedig nagy félelemmel félék az Urat, és áldozattal áldozának az Úrnak, és fogadásokat fogadának.",
+          "text": "Azok az emberek pedig nagy félelemmel félék az Urat, és áldozattal áldozának az Úrnak, és fogadásokat fogadának.",
+          "cites": []
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "cited_text": "Az Úr pedig egy nagy halat rendelt, hogy benyelje Jónást. [Máté. 12,40.] És lőn Jónás a halnak gyomrában három nap és három éjjel.",
+          "text": "Az Úr pedig egy nagy halat rendelt, hogy benyelje Jónást. * És lőn Jónás a halnak gyomrában három nap és három éjjel.",
+          "cites": []
+        },
+        {
+          "number": 2,
+          "cited_text": "És könyörge Jónás az Úrnak, az ő Istenének a halnak gyomrából.",
+          "text": "És könyörge Jónás az Úrnak, az ő Istenének a halnak gyomrából.",
+          "cites": []
+        },
+        {
+          "number": 3,
+          "cited_text": "És mondá: Nyomorúságomban az Úrhoz kiálték és meghallgata engem; a Seol torkából sikolték és meghallád az én szómat.",
+          "text": "És mondá: Nyomorúságomban az Úrhoz kiálték és meghallgata engem; a Seol torkából sikolték és meghallád az én szómat.",
+          "cites": []
+        },
+        {
+          "number": 4,
+          "cited_text": "Mert mélységbe vetettél engem, tenger közepébe, és körülfogott engem a víz; örvényeid [Zsolt. 42,8.88,17.] és habjaid mind átmentek rajtam!",
+          "text": "Mert mélységbe vetettél engem, tenger közepébe, és körülfogott engem a víz; örvényeid * és habjaid mind átmentek rajtam!",
+          "cites": [
+            {
+              "link": "Zsolt. 42,8.88,17.",
+              "displayable_name": "Zsolt. 42,8.88,17.",
+              "offset": 86
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "cited_text": "És én mondám: Elvettettem a te szemeid elől; vajha láthatnám még szentséged templomát!",
+          "text": "És én mondám: Elvettettem a te szemeid elől; vajha láthatnám még szentséged templomát!",
+          "cites": []
+        },
+        {
+          "number": 6,
+          "cited_text": "Körülvettek engem a vizek lelkemig, mély ár kerített be engem, hinár szövődött fejemre.",
+          "text": "Körülvettek engem a vizek lelkemig, mély ár kerített be engem, hinár szövődött fejemre.",
+          "cites": []
+        },
+        {
+          "number": 7,
+          "cited_text": "A hegyek alapjáig sülyedtem alá; bezáródtak a föld závárjai felettem örökre! Mindazáltal kiemelted éltemet a mulásból, oh Uram, Istenem!",
+          "text": "A hegyek alapjáig sülyedtem alá; bezáródtak a föld závárjai felettem örökre! Mindazáltal kiemelted éltemet a mulásból, oh Uram, Istenem!",
+          "cites": []
+        },
+        {
+          "number": 8,
+          "cited_text": "Mikor elcsüggedt bennem az én lelkem, megemlékeztem az Úrról, és bejutott az én könyörgésem te hozzád, a te szentséged templomába.",
+          "text": "Mikor elcsüggedt bennem az én lelkem, megemlékeztem az Úrról, és bejutott az én könyörgésem te hozzád, a te szentséged templomába.",
+          "cites": []
+        },
+        {
+          "number": 9,
+          "cited_text": "A kik hiú bálványokra ügyelnek, elhagyják boldogságukat;",
+          "text": "A kik hiú bálványokra ügyelnek, elhagyják boldogságukat;",
+          "cites": []
+        },
+        {
+          "number": 10,
+          "cited_text": "De én [Zsolt. 116,17.18.] hálaadó szóval áldozom néked; megadom, a mit fogadtam. Az Úré a szabadítás.",
+          "text": "De én * hálaadó szóval áldozom néked; megadom, a mit fogadtam. Az Úré a szabadítás.",
+          "cites": [
+            {
+              "link": "Zsolt. 116,17.18.",
+              "displayable_name": "Zsolt. 116,17.18.",
+              "offset": 6
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "cited_text": "És szóla az Úr a halnak, és kiveté Jónást a szárazra.",
+          "text": "És szóla az Úr a halnak, és kiveté Jónást a szárazra.",
+          "cites": []
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "cited_text": "És lőn az Úrnak szava Jónáshoz másodszor is, mondván:",
+          "text": "És lőn az Úrnak szava Jónáshoz másodszor is, mondván:",
+          "cites": []
+        },
+        {
+          "number": 2,
+          "cited_text": "Kelj fel, menj Ninivébe, a nagy városba, és hirdesd néki azt a beszédet, a mit én parancsolok néked.",
+          "text": "Kelj fel, menj Ninivébe, a nagy városba, és hirdesd néki azt a beszédet, a mit én parancsolok néked.",
+          "cites": []
+        },
+        {
+          "number": 3,
+          "cited_text": "És felkele Jónás, és elméne Ninivébe az Úr szava szerint. Ninive pedig nagy városa vala Istennek, három napi járó föld.",
+          "text": "És felkele Jónás, és elméne Ninivébe az Úr szava szerint. Ninive pedig nagy városa vala Istennek, három napi járó föld.",
+          "cites": []
+        },
+        {
+          "number": 4,
+          "cited_text": "És kezde Jónás bemenni a városba egy napi járóra, és kiálta és monda: Még negyven nap, és elpusztul Ninive!",
+          "text": "És kezde Jónás bemenni a városba egy napi járóra, és kiálta és monda: Még negyven nap, és elpusztul Ninive!",
+          "cites": []
+        },
+        {
+          "number": 5,
+          "cited_text": "A niniveiek pedig hivének Istenben, és [Máté. 12,41.] bőjtöt hirdetének, és nagyjaiktól fogva kicsinyeikig zsákba öltözének.",
+          "text": "A niniveiek pedig hivének Istenben, és * bőjtöt hirdetének, és nagyjaiktól fogva kicsinyeikig zsákba öltözének.",
+          "cites": []
+        },
+        {
+          "number": 6,
+          "cited_text": "És eljuta a beszéd Ninive királyához, és felkele királyi székéből, és leveté magáról az ő királyi ruháját, és zsákba borítkozék, és üle a porba.",
+          "text": "És eljuta a beszéd Ninive királyához, és felkele királyi székéből, és leveté magáról az ő királyi ruháját, és zsákba borítkozék, és üle a porba.",
+          "cites": []
+        },
+        {
+          "number": 7,
+          "cited_text": "És kiáltának és szólának Ninivében, a királynak és főembereinek akaratából, mondván: Emberek és barmok, ökrök és juhok: semmit meg ne kóstoljanak, ne legeljenek és vizet se igyanak!",
+          "text": "És kiáltának és szólának Ninivében, a királynak és főembereinek akaratából, mondván: Emberek és barmok, ökrök és juhok: semmit meg ne kóstoljanak, ne legeljenek és vizet se igyanak!",
+          "cites": []
+        },
+        {
+          "number": 8,
+          "cited_text": "Hanem öltözzenek zsákba az emberek és barmok, és kiáltsanak az Istenhez erősen, és térjen meg kiki az ő gonosz útáról és az erőszakosságból, a mely az ő kezökben van!",
+          "text": "Hanem öltözzenek zsákba az emberek és barmok, és kiáltsanak az Istenhez erősen, és térjen meg kiki az ő gonosz útáról és az erőszakosságból, a mely az ő kezökben van!",
+          "cites": []
+        },
+        {
+          "number": 9,
+          "cited_text": "Ki tudja? talán visszatér és megengesztelődik az Isten és elfordul haragjának búsulásától, és nem veszünk el!",
+          "text": "Ki tudja? talán visszatér és megengesztelődik az Isten és elfordul haragjának búsulásától, és nem veszünk el!",
+          "cites": []
+        },
+        {
+          "number": 10,
+          "cited_text": "És látá Isten az ő cselekedeteiket, hogy megtértek az ő gonosz útjokról: és megbáná [Jer. 18,8. Ámós. 7,3.] az Isten azt a gonoszt, a melyről mondá, hogy végrehajtja rajtok, és nem hajtá végre.",
+          "text": "És látá Isten az ő cselekedeteiket, hogy megtértek az ő gonosz útjokról: és megbáná * az Isten azt a gonoszt, a melyről mondá, hogy végrehajtja rajtok, és nem hajtá végre.",
+          "cites": [
+            {
+              "link": "Jer. 18,8.",
+              "displayable_name": "Jer. 18,8.",
+              "offset": 84
+            },
+            {
+              "link": "Ámós. 7,3.",
+              "displayable_name": "Ámós. 7,3.",
+              "offset": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "cited_text": "És igen rossznak látszék ez Jónás előtt, és megharaguvék.",
+          "text": "És igen rossznak látszék ez Jónás előtt, és megharaguvék.",
+          "cites": []
+        },
+        {
+          "number": 2,
+          "cited_text": "Könyörge azért az Úrhoz, és mondá: Kérlek, Uram! Avagy nem ez vala-é az én mondásom, mikor még az én hazámban valék? azért siettem, hogy Tarsisba futnék, mert tudtam, hogy te irgalmas és kegyelmes Isten vagy, nagy türelmű és nagy irgalmasságú és a gonosz miatt is [2 Móz. 34,6. Jóel. 2,13.] bánkódó.",
+          "text": "Könyörge azért az Úrhoz, és mondá: Kérlek, Uram! Avagy nem ez vala-é az én mondásom, mikor még az én hazámban valék? azért siettem, hogy Tarsisba futnék, mert tudtam, hogy te irgalmas és kegyelmes Isten vagy, nagy türelmű és nagy irgalmasságú és a gonosz miatt is * bánkódó.",
+          "cites": [
+            {
+              "link": "2 Móz. 34,6.",
+              "displayable_name": "2 Móz. 34,6.",
+              "offset": 264
+            },
+            {
+              "link": "Jóel. 2,13.",
+              "displayable_name": "Jóel. 2,13.",
+              "offset": 264
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "cited_text": "Most azért Uram, vedd el, kérlek, az én lelkemet én tőlem, mert jobb meghalnom, mintsem élnem!",
+          "text": "Most azért Uram, vedd el, kérlek, az én lelkemet én tőlem, mert jobb meghalnom, mintsem élnem!",
+          "cites": []
+        },
+        {
+          "number": 4,
+          "cited_text": "Az Úr pedig mondá: Avagy méltán haragszol-é?",
+          "text": "Az Úr pedig mondá: Avagy méltán haragszol-é?",
+          "cites": []
+        },
+        {
+          "number": 5,
+          "cited_text": "Majd kiméne Jónás a városból, és üle a város keleti része felől, és csinála ott magának hajlékot, és üle az alatt az árnyékban, a míg megláthatná, mi lészen a városból?",
+          "text": "Majd kiméne Jónás a városból, és üle a város keleti része felől, és csinála ott magának hajlékot, és üle az alatt az árnyékban, a míg megláthatná, mi lészen a városból?",
+          "cites": []
+        },
+        {
+          "number": 6,
+          "cited_text": "Az Úr Isten pedig egy tököt rendele, és felnöve az Jónás fölé, hogy árnyékot tartson feje fölött és megoltalmazza őt a hévség bántásától. És nagy örömmel örvendezék Jónás a tök miatt.",
+          "text": "Az Úr Isten pedig egy tököt rendele, és felnöve az Jónás fölé, hogy árnyékot tartson feje fölött és megoltalmazza őt a hévség bántásától. És nagy örömmel örvendezék Jónás a tök miatt.",
+          "cites": []
+        },
+        {
+          "number": 7,
+          "cited_text": "De másnapra férget rendele az Isten hajnal-költekor, és megszúrá az a tököt, és elszárada.",
+          "text": "De másnapra férget rendele az Isten hajnal-költekor, és megszúrá az a tököt, és elszárada.",
+          "cites": []
+        },
+        {
+          "number": 8,
+          "cited_text": "És lőn napköltekor, hogy tikkasztó keleti szelet rendele Isten, és a nap rátűzött a Jónás fejére, és ő elbágyada. Kiváná azért magának a halált, és monda: Jobb halnom, mint élnem!",
+          "text": "És lőn napköltekor, hogy tikkasztó keleti szelet rendele Isten, és a nap rátűzött a Jónás fejére, és ő elbágyada. Kiváná azért magának a halált, és monda: Jobb halnom, mint élnem!",
+          "cites": []
+        },
+        {
+          "number": 9,
+          "cited_text": "És monda az Isten Jónásnak: Avagy méltán haragszol-é a tök miatt? És monda: Méltán haragszom, mind halálig!",
+          "text": "És monda az Isten Jónásnak: Avagy méltán haragszol-é a tök miatt? És monda: Méltán haragszom, mind halálig!",
+          "cites": []
+        },
+        {
+          "number": 10,
+          "cited_text": "Az Úr pedig monda: Te szánod a tököt, a melyért nem fáradtál és a melyet nem neveltél, a mely egy éjjel támadt és más éjjel elveszett:",
+          "text": "Az Úr pedig monda: Te szánod a tököt, a melyért nem fáradtál és a melyet nem neveltél, a mely egy éjjel támadt és más éjjel elveszett:",
+          "cites": []
+        },
+        {
+          "number": 11,
+          "cited_text": "Én pedig ne szánjam Ninivét, a nagy várost, a melyben több van tizenkétszer tízezer embernél, a kik nem tudnak különbséget tenni jobb- és balkezük között, és barom is sok van?!",
+          "text": "Én pedig ne szánjam Ninivét, a nagy várost, a melyben több van tizenkétszer tízezer embernél, a kik nem tudnak különbséget tenni jobb- és balkezük között, és barom is sok van?!",
+          "cites": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "title": "SOFÓNIÁS PRÓFÉTA KÖNYVE [Sof.]",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "cited_text": "Az Úr igéje, a melyet szólt Sofóniásnak, a Kusi fiának, a ki Gedáliás fia, a ki Amariás fia, a ki Ezékiás fia, Jósiásnak [2 Kir. 21,23.24.22,1.] az Amon fiának idejében.",
+          "text": "Az Úr igéje, a melyet szólt Sofóniásnak, a Kusi fiának, a ki Gedáliás fia, a ki Amariás fia, a ki Ezékiás fia, Jósiásnak * az Amon fiának idejében.",
+          "cites": [
+            {
+              "link": "2 Kir. 21,23.24.22,1.",
+              "displayable_name": "2 Kir. 21,23.24.22,1.",
+              "offset": 121
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "cited_text": "Elvesztek, mindent elvesztek e föld színéről, azt mondja az Úr.",
+          "text": "Elvesztek, mindent elvesztek e föld színéről, azt mondja az Úr.",
+          "cites": []
+        },
+        {
+          "number": 3,
+          "cited_text": "Elvesztek embert és barmot; elvesztem az ég madarait, és a tenger halait és a botránkoztatás eszközeit a hitetlenekkel együtt; az embert is kiirtom a föld színéről, azt mondja az Úr.",
+          "text": "Elvesztek embert és barmot; elvesztem az ég madarait, és a tenger halait és a botránkoztatás eszközeit a hitetlenekkel együtt; az embert is kiirtom a föld színéről, azt mondja az Úr.",
+          "cites": []
+        },
+        {
+          "number": 4,
+          "cited_text": "És kinyújtom kezemet Júda ellen és Jeruzsálem minden lakója ellen, és kiirtom e helyről a Baál maradékát, a bálványpapok nevét a papokkal együtt;",
+          "text": "És kinyújtom kezemet Júda ellen és Jeruzsálem minden lakója ellen, és kiirtom e helyről a Baál maradékát, a bálványpapok nevét a papokkal együtt;",
+          "cites": []
+        },
+        {
+          "number": 5,
+          "cited_text": "Azokat is, a kik a háztetőkön az ég seregének [2 Kir. 23,12.13. Jer. 19,13.] hajlonganak; és azokat, a kik hajlonganak, esküdvén az Úrra, de esküsznek az ő Molokjokra is;",
+          "text": "Azokat is, a kik a háztetőkön az ég seregének * hajlonganak; és azokat, a kik hajlonganak, esküdvén az Úrra, de esküsznek az ő Molokjokra is;",
+          "cites": [
+            {
+              "link": "2 Kir. 23,12.13.",
+              "displayable_name": "2 Kir. 23,12.13.",
+              "offset": 46
+            },
+            {
+              "link": "Jer. 19,13.",
+              "displayable_name": "Jer. 19,13.",
+              "offset": 46
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "cited_text": "Azokat is, a kik elfordultak az Úr követésétől, [Ezék. 8,16.] és a kik nem keresik az Urat és nem tudakoznak felőle.",
+          "text": "Azokat is, a kik elfordultak az Úr követésétől, * és a kik nem keresik az Urat és nem tudakoznak felőle.",
+          "cites": [
+            {
+              "link": "Ezék. 8,16.",
+              "displayable_name": "Ezék. 8,16.",
+              "offset": 48
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "cited_text": "Hallgass az Úr Isten orczája előtt, mert közel van az Úrnak napja, mert áldozatot készíttetett az Úr, [Ezék. 39,17-20.] megszentelte az ő hivatalosait.",
+          "text": "Hallgass az Úr Isten orczája előtt, mert közel van az Úrnak napja, mert áldozatot készíttetett az Úr, * megszentelte az ő hivatalosait.",
+          "cites": [
+            {
+              "link": "Ezék. 39,17-20.",
+              "displayable_name": "Ezék. 39,17-20.",
+              "offset": 102
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "cited_text": "És lészen az Úr áldozatának napján: megfenyítem majd a fejedelmeket és a királyok fiait és mindazokat, a kik idegen öltözetbe öltöztek.",
+          "text": "És lészen az Úr áldozatának napján: megfenyítem majd a fejedelmeket és a királyok fiait és mindazokat, a kik idegen öltözetbe öltöztek.",
+          "cites": []
+        },
+        {
+          "number": 9,
+          "cited_text": "És megfenyítem mindazt, a ki a küszöbön ugrál ama napon, a kik erőszakkal és csalárdsággal töltik meg az ő uroknak házát.",
+          "text": "És megfenyítem mindazt, a ki a küszöbön ugrál ama napon, a kik erőszakkal és csalárdsággal töltik meg az ő uroknak házát.",
+          "cites": []
+        },
+        {
+          "number": 10,
+          "cited_text": "És lészen azon a napon, azt mondja az Úr, kiáltó szózat a hal-kaputól fogva, és jajgatás az alsó városból, és nagy recsegés a halmok felől.",
+          "text": "És lészen azon a napon, azt mondja az Úr, kiáltó szózat a hal-kaputól fogva, és jajgatás az alsó városból, és nagy recsegés a halmok felől.",
+          "cites": []
+        },
+        {
+          "number": 11,
+          "cited_text": "Jajgassatok, ti, a kik a völgyben laktok, mert elpusztul az egész kalmár nép, [Hós. 12,7.] kivágattatik minden, a ki ezüstöt mér.",
+          "text": "Jajgassatok, ti, a kik a völgyben laktok, mert elpusztul az egész kalmár nép, * kivágattatik minden, a ki ezüstöt mér.",
+          "cites": [
+            {
+              "link": "Hós. 12,7.",
+              "displayable_name": "Hós. 12,7.",
+              "offset": 78
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "cited_text": "És lészen az időben, megmotozom majd Jeruzsálemet szövétnekkel, és megfenyítem azokat, a kik saját seprejökön [Mik. 3,11.12.] hevernek, a kik ezt mondják szívökben: sem jót, sem rosszat nem cselekszik az Úr.",
+          "text": "És lészen az időben, megmotozom majd Jeruzsálemet szövétnekkel, és megfenyítem azokat, a kik saját seprejökön * hevernek, a kik ezt mondják szívökben: sem jót, sem rosszat nem cselekszik az Úr.",
+          "cites": [
+            {
+              "link": "Mik. 3,11.12.",
+              "displayable_name": "Mik. 3,11.12.",
+              "offset": 110
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "cited_text": "És gazdagságuk prédává lesz, házaik pedig pusztává. Építnek házakat, de nem lakják, és [5 Móz. 28,30.39.] plántálnak szőlőket, de nem iszszák azoknak borát.",
+          "text": "És gazdagságuk prédává lesz, házaik pedig pusztává. Építnek házakat, de nem lakják, és * plántálnak szőlőket, de nem iszszák azoknak borát.",
+          "cites": [
+            {
+              "link": "5 Móz. 28,30.39.",
+              "displayable_name": "5 Móz. 28,30.39.",
+              "offset": 87
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "cited_text": "Közel van az Úrnak nagy [Jer. 39,1.2.] napja, közel van és igen siet; az Úr napjának szava keserves, kiáltoz azon a hős is.",
+          "text": "Közel van az Úrnak nagy * napja, közel van és igen siet; az Úr napjának szava keserves, kiáltoz azon a hős is.",
+          "cites": [
+            {
+              "link": "Jer. 39,1.2.",
+              "displayable_name": "Jer. 39,1.2.",
+              "offset": 24
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "cited_text": "Haragnak napja az a nap, szorongatásnak és nyomorúságnak napja; pusztításnak és pusztulásnak napja; sötétségnek és homálynak napja; felhőnek [Ámós. 5,18.] és borúnak napja.",
+          "text": "Haragnak napja az a nap, szorongatásnak és nyomorúságnak napja; pusztításnak és pusztulásnak napja; sötétségnek és homálynak napja; felhőnek * és borúnak napja.",
+          "cites": [
+            {
+              "link": "Ámós. 5,18.",
+              "displayable_name": "Ámós. 5,18.",
+              "offset": 141
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "cited_text": "Kürtnek és tárogatónak napja a megerősített városok ellen és a büszke tornyok ellen!",
+          "text": "Kürtnek és tárogatónak napja a megerősített városok ellen és a büszke tornyok ellen!",
+          "cites": []
+        },
+        {
+          "number": 17,
+          "cited_text": "És megszorongatom az embereket és járnak, mint a vakok, mert vétkeztek az Úr ellen, és kiontatik vérök, mint a por, és testök, mint szemét.",
+          "text": "És megszorongatom az embereket és járnak, mint a vakok, mert vétkeztek az Úr ellen, és kiontatik vérök, mint a por, és testök, mint szemét.",
+          "cites": []
+        },
+        {
+          "number": 18,
+          "cited_text": "Sem ezüstjök, sem aranyuk nem szabadíthatja meg őket az Úr haragjának napján, és az ő féltő szeretetének tüze megemészti az egész földet; mert véget vet, [Jer. 39,9.] bizony hirtelen vet véget e föld minden lakosának.",
+          "text": "Sem ezüstjök, sem aranyuk nem szabadíthatja meg őket az Úr haragjának napján, és az ő féltő szeretetének tüze megemészti az egész földet; mert véget vet, * bizony hirtelen vet véget e föld minden lakosának.",
+          "cites": [
+            {
+              "link": "Jer. 39,9.",
+              "displayable_name": "Jer. 39,9.",
+              "offset": 154
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "cited_text": "Térjetek eszetekre, s eszméljetek fel, ti, arczátlan nemzet,",
+          "text": "Térjetek eszetekre, s eszméljetek fel, ti, arczátlan nemzet,",
+          "cites": []
+        },
+        {
+          "number": 2,
+          "cited_text": "Mielőtt szűlne a végzés (mint a polyva száll tova az a nap!); míg rátok nem jön az Úr haragjának tüze, míg rátok nem jön az Úr haragjának napja!",
+          "text": "Mielőtt szűlne a végzés (mint a polyva száll tova az a nap!); míg rátok nem jön az Úr haragjának tüze, míg rátok nem jön az Úr haragjának napja!",
+          "cites": []
+        },
+        {
+          "number": 3,
+          "cited_text": "Keressétek az Urat mindnyájan e föld alázatosai, a kik az ő ítélete szerint cselekesztek; keressétek az igazságot, keressétek az alázatosságot: talán megoltalmaztattok az Úr haragjának napján!",
+          "text": "Keressétek az Urat mindnyájan e föld alázatosai, a kik az ő ítélete szerint cselekesztek; keressétek az igazságot, keressétek az alázatosságot: talán megoltalmaztattok az Úr haragjának napján!",
+          "cites": []
+        },
+        {
+          "number": 4,
+          "cited_text": "Mert elhagyottá lesz Gáza, Askelon pedig pusztasággá; Asdódot délben űzik el, és Ekron kiirtatik.",
+          "text": "Mert elhagyottá lesz Gáza, Askelon pedig pusztasággá; Asdódot délben űzik el, és Ekron kiirtatik.",
+          "cites": []
+        },
+        {
+          "number": 5,
+          "cited_text": "Jaj a tenger vidékén lakóknak, a Kereteusok nemzetségének! Az Úr igéje ellened van, te Kanaán, Filiszteusok földje; [Jer. 47,4-7.] elpusztítalak téged, lakatlanná leszel.",
+          "text": "Jaj a tenger vidékén lakóknak, a Kereteusok nemzetségének! Az Úr igéje ellened van, te Kanaán, Filiszteusok földje; * elpusztítalak téged, lakatlanná leszel.",
+          "cites": [
+            {
+              "link": "Jer. 47,4-7.",
+              "displayable_name": "Jer. 47,4-7.",
+              "offset": 116
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "cited_text": "És a tenger vidéke legelőkké, pásztorok tanyáivá és juhoknak aklaivá lészen.",
+          "text": "És a tenger vidéke legelőkké, pásztorok tanyáivá és juhoknak aklaivá lészen.",
+          "cites": []
+        },
+        {
+          "number": 7,
+          "cited_text": "És az a vidék a Júda házának maradékáé lesz, ők legeltetnek azon; estére Askelon házaiban heverésznek, mert meglátogatja őket az Úr, az ő Istenök, és visszahozza az ő foglyaikat.",
+          "text": "És az a vidék a Júda házának maradékáé lesz, ők legeltetnek azon; estére Askelon házaiban heverésznek, mert meglátogatja őket az Úr, az ő Istenök, és visszahozza az ő foglyaikat.",
+          "cites": []
+        },
+        {
+          "number": 8,
+          "cited_text": "Hallottam Moáb gyalázkodását és Ammon fiainak szidalmait, a melyekkel gyalázták népemet, és felfuvalkodtak az ő határok ellen.",
+          "text": "Hallottam Moáb gyalázkodását és Ammon fiainak szidalmait, a melyekkel gyalázták népemet, és felfuvalkodtak az ő határok ellen.",
+          "cites": []
+        },
+        {
+          "number": 9,
+          "cited_text": "Azért élek én, mond a Seregeknek Ura, Izráelnek Istene, hogy [Ésa. 16,6- 12.] Moáb olyanná lészen, mint Sodoma, Ammon fiai pedig, mint Gomora: tövistermő föld, só-telep és pusztaság örökre; népem maradéka prédálja fel őket, és nemzetségem ivadékai bírják majd őket.",
+          "text": "Azért élek én, mond a Seregeknek Ura, Izráelnek Istene, hogy * Moáb olyanná lészen, mint Sodoma, Ammon fiai pedig, mint Gomora: tövistermő föld, só-telep és pusztaság örökre; népem maradéka prédálja fel őket, és nemzetségem ivadékai bírják majd őket.",
+          "cites": [
+            {
+              "link": "Ésa. 16,6-",
+              "displayable_name": "Ésa. 16,6-",
+              "offset": 61
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "cited_text": "Ez esik meg rajtok az ő kevélységökért, a miért gyalázkodtak és felfuvalkodtak a Seregek Urának népe ellen.",
+          "text": "Ez esik meg rajtok az ő kevélységökért, a miért gyalázkodtak és felfuvalkodtak a Seregek Urának népe ellen.",
+          "cites": []
+        },
+        {
+          "number": 11,
+          "cited_text": "Rettenetes lesz az Úr ellenök, mert elfogyatja a földnek minden istenét, és néki hódol majd kiki a maga lakhelyén, a pogányoknak is minden szigete.",
+          "text": "Rettenetes lesz az Úr ellenök, mert elfogyatja a földnek minden istenét, és néki hódol majd kiki a maga lakhelyén, a pogányoknak is minden szigete.",
+          "cites": []
+        },
+        {
+          "number": 12,
+          "cited_text": "Ti is, kúsiak! [Ésa. 20,3-5.] Fegyverem öli meg őket.",
+          "text": "Ti is, kúsiak! * Fegyverem öli meg őket.",
+          "cites": [
+            {
+              "link": "Ésa. 20,3-5.",
+              "displayable_name": "Ésa. 20,3-5.",
+              "offset": 15
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "cited_text": "És kinyújtja kezét észak felé, és elveszti Assiriát, Ninivét pusztasággá teszi, kietlenné, mint egy sivatag.",
+          "text": "És kinyújtja kezét észak felé, és elveszti Assiriát, Ninivét pusztasággá teszi, kietlenné, mint egy sivatag.",
+          "cites": []
+        },
+        {
+          "number": 14,
+          "cited_text": "És nyájak heverésznek bensejében, mindenféle állatok serege: pelikán és sündisznó hálnak párkányain, az ablakban azoknak szava hangzik, a küszöbön omladék lészen, mert lefosztatott a czédrus!",
+          "text": "És nyájak heverésznek bensejében, mindenféle állatok serege: pelikán és sündisznó hálnak párkányain, az ablakban azoknak szava hangzik, a küszöbön omladék lészen, mert lefosztatott a czédrus!",
+          "cites": []
+        },
+        {
+          "number": 15,
+          "cited_text": "Ímé, a víg város, a bátorságban lakozó, a mely ezt mondja vala szívében: Én vagyok és nincs kívülem más! milyen pusztasággá lőn, vadak tanyájává, a ki átmegy rajta, mind süvöltöz és csapkodja kezét.",
+          "text": "Ímé, a víg város, a bátorságban lakozó, a mely ezt mondja vala szívében: Én vagyok és nincs kívülem más! milyen pusztasággá lőn, vadak tanyájává, a ki átmegy rajta, mind süvöltöz és csapkodja kezét.",
+          "cites": []
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "cited_text": "Jaj az ellenszegülőnek és undoknak, az erőszakos városnak!",
+          "text": "Jaj az ellenszegülőnek és undoknak, az erőszakos városnak!",
+          "cites": []
+        },
+        {
+          "number": 2,
+          "cited_text": "Nem hallgatott a szóra, nem fogadta a fenyítéket, nem bízott az Úrban, Istenéhez nem közelített!",
+          "text": "Nem hallgatott a szóra, nem fogadta a fenyítéket, nem bízott az Úrban, Istenéhez nem közelített!",
+          "cites": []
+        },
+        {
+          "number": 3,
+          "cited_text": "Fejedelmei olyanok benne, mint az ordító oroszlánok, birái, mint az estve járó farkasok, nem hagynak reggelre a csonton.",
+          "text": "Fejedelmei olyanok benne, mint az ordító oroszlánok, birái, mint az estve járó farkasok, nem hagynak reggelre a csonton.",
+          "cites": []
+        },
+        {
+          "number": 4,
+          "cited_text": "Prófétái hivalkodók, hitető [Jer. 23,11.32. Hós. 9,7.] férfiak; papjai megfertéztetik a szent helyet, erőszakot tesznek a törvényen.",
+          "text": "Prófétái hivalkodók, hitető * férfiak; papjai megfertéztetik a szent helyet, erőszakot tesznek a törvényen.",
+          "cites": [
+            {
+              "link": "Jer. 23,11.32.",
+              "displayable_name": "Jer. 23,11.32.",
+              "offset": 28
+            },
+            {
+              "link": "Hós. 9,7.",
+              "displayable_name": "Hós. 9,7.",
+              "offset": 28
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "cited_text": "Az Úr igaz ő benne, nem cselekszik hamisságot; reggelről reggelre napfényre hozza ítéletét; nem mulasztja el: de nem ismeri a szégyent a gonosz!",
+          "text": "Az Úr igaz ő benne, nem cselekszik hamisságot; reggelről reggelre napfényre hozza ítéletét; nem mulasztja el: de nem ismeri a szégyent a gonosz!",
+          "cites": []
+        },
+        {
+          "number": 6,
+          "cited_text": "Nemzeteket irtottam ki; elpusztultak tornyaik; feldúltam falvaikat, nincs, a ki átmenjen rajtok; elromboltattak városaik, egy ember sincs bennök, nincsen lakosuk!",
+          "text": "Nemzeteket irtottam ki; elpusztultak tornyaik; feldúltam falvaikat, nincs, a ki átmenjen rajtok; elromboltattak városaik, egy ember sincs bennök, nincsen lakosuk!",
+          "cites": []
+        },
+        {
+          "number": 7,
+          "cited_text": "Mondtam: Csak félj engem, vedd fel a fenyítéket (akkor nem irtatott volna ki lakhelye; mindaz, a mit felőle végeztem): mégis mihelyt felvirradtak, rosszra indították minden cselekedetöket.",
+          "text": "Mondtam: Csak félj engem, vedd fel a fenyítéket (akkor nem irtatott volna ki lakhelye; mindaz, a mit felőle végeztem): mégis mihelyt felvirradtak, rosszra indították minden cselekedetöket.",
+          "cites": []
+        },
+        {
+          "number": 8,
+          "cited_text": "Azért várjatok rám, azt mondja az Úr, míg prédára kelek; mert elvégeztem, hogy egybegyűjtöm a népeket, hogy összeszedem az országokat, hogy kiöntsem rájok búsulásomat, haragomnak egész hevét, mert gerjedezésem tüzében emésztetik meg az egész föld!",
+          "text": "Azért várjatok rám, azt mondja az Úr, míg prédára kelek; mert elvégeztem, hogy egybegyűjtöm a népeket, hogy összeszedem az országokat, hogy kiöntsem rájok búsulásomat, haragomnak egész hevét, mert gerjedezésem tüzében emésztetik meg az egész föld!",
+          "cites": []
+        },
+        {
+          "number": 9,
+          "cited_text": "Akkor változtatom majd a népek ajkát tisztává, hogy mind segítségül hívják az Úr nevét, hogy egy akarattal szolgálják őt.",
+          "text": "Akkor változtatom majd a népek ajkát tisztává, hogy mind segítségül hívják az Úr nevét, hogy egy akarattal szolgálják őt.",
+          "cites": []
+        },
+        {
+          "number": 10,
+          "cited_text": "Kús folyóvizein túlról hozzák imádóim, [Zsolt. 68,32.] szétszórt népemnek leányai ételáldozatomat nékem.",
+          "text": "Kús folyóvizein túlról hozzák imádóim, * szétszórt népemnek leányai ételáldozatomat nékem.",
+          "cites": [
+            {
+              "link": "Zsolt. 68,32.",
+              "displayable_name": "Zsolt. 68,32.",
+              "offset": 39
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "cited_text": "Azon a napon nem szégyenülsz meg egyetlen cselekedetért sem, a melyekkel vétkeztél ellenem; mert akkor eltávolítom körödből azokat, a kik kérkedve örvendeznek benned, és nem kevélykedel többé az én szent hegyemen.",
+          "text": "Azon a napon nem szégyenülsz meg egyetlen cselekedetért sem, a melyekkel vétkeztél ellenem; mert akkor eltávolítom körödből azokat, a kik kérkedve örvendeznek benned, és nem kevélykedel többé az én szent hegyemen.",
+          "cites": []
+        },
+        {
+          "number": 12,
+          "cited_text": "És marasztok közötted nyomorult és szegény népet, a kik bíznak az Úr nevében.",
+          "text": "És marasztok közötted nyomorult és szegény népet, a kik bíznak az Úr nevében.",
+          "cites": []
+        },
+        {
+          "number": 13,
+          "cited_text": "Izráel maradéka nem cselekszik hamisságot, nem szól hazugságot, és nem találtatik szájában álnokságnak nyelve, hanem legelésznek és lenyugosznak és nem lesz a ki felrettentse őket.",
+          "text": "Izráel maradéka nem cselekszik hamisságot, nem szól hazugságot, és nem találtatik szájában álnokságnak nyelve, hanem legelésznek és lenyugosznak és nem lesz a ki felrettentse őket.",
+          "cites": []
+        },
+        {
+          "number": 14,
+          "cited_text": "Énekelj Sionnak leánya, harsogj Izráel, örvendj és teljes szívvel vígadj Jeruzsálem leánya!",
+          "text": "Énekelj Sionnak leánya, harsogj Izráel, örvendj és teljes szívvel vígadj Jeruzsálem leánya!",
+          "cites": []
+        },
+        {
+          "number": 15,
+          "cited_text": "Megváltoztatta az Úr a te ítéletedet, elfordította ellenségedet; Izráel királya, az Úr, közötted van, nem látsz többé gonoszt!",
+          "text": "Megváltoztatta az Úr a te ítéletedet, elfordította ellenségedet; Izráel királya, az Úr, közötted van, nem látsz többé gonoszt!",
+          "cites": []
+        },
+        {
+          "number": 16,
+          "cited_text": "Azon a napon ezt mondják Jeruzsálemnek: Ne félj! [Ésa. 41,10.43,1.] Ne lankadjanak kezeid Sion!",
+          "text": "Azon a napon ezt mondják Jeruzsálemnek: Ne félj! * Ne lankadjanak kezeid Sion!",
+          "cites": [
+            {
+              "link": "Ésa. 41,10.43,1.",
+              "displayable_name": "Ésa. 41,10.43,1.",
+              "offset": 49
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "cited_text": "Az Úr, a te Istened közötted van; erős ő, megtart; örül te rajtad örömmel, hallgat az ő szerelmében, énekléssel örvendez néked.",
+          "text": "Az Úr, a te Istened közötted van; erős ő, megtart; örül te rajtad örömmel, hallgat az ő szerelmében, énekléssel örvendez néked.",
+          "cites": []
+        },
+        {
+          "number": 18,
+          "cited_text": "Az ünnep miatt bánkódókat egybegyűjtöm, a kik közüled valók; gyalázat terhe van rajtok.",
+          "text": "Az ünnep miatt bánkódókat egybegyűjtöm, a kik közüled valók; gyalázat terhe van rajtok.",
+          "cites": []
+        },
+        {
+          "number": 19,
+          "cited_text": "Ímé, én elbánok minden te nyomorgatóddal abban az időben, és megtartom a sántát, [Mik. 4,6.7.] és összeszedem a szétszórtakat, és híresekké és nevesekké teszem őket az ő gyalázatjoknak egész földén.",
+          "text": "Ímé, én elbánok minden te nyomorgatóddal abban az időben, és megtartom a sántát, * és összeszedem a szétszórtakat, és híresekké és nevesekké teszem őket az ő gyalázatjoknak egész földén.",
+          "cites": [
+            {
+              "link": "Mik. 4,6.7.",
+              "displayable_name": "Mik. 4,6.7.",
+              "offset": 81
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "cited_text": "Abban az időben elhozlak titeket, és akkor összeszedlek titeket, mert nevesekké és híresekké teszlek titeket a földnek minden népe között, mikor megfordítom a ti fogságotokat [Zsolt. 126,1.2.] a ti szemetek előtt, azt mondja az Úr.",
+          "text": "Abban az időben elhozlak titeket, és akkor összeszedlek titeket, mert nevesekké és híresekké teszlek titeket a földnek minden népe között, mikor megfordítom a ti fogságotokat * a ti szemetek előtt, azt mondja az Úr.",
+          "cites": [
+            {
+              "link": "Zsolt. 126,1.2.",
+              "displayable_name": "Zsolt. 126,1.2.",
+              "offset": 175
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
